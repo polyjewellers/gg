@@ -1,0 +1,6 @@
+{
+  "name": "Poly Jewellers",
+  "description": "Order & Customer Management App for Poly Jewellers",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
